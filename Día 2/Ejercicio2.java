@@ -12,5 +12,6 @@ public class Ejercicio2 {
         else {
             System.out.println("No eres mayor de edad, vuelve en " + b + " años");
         }
+        sc.close();
     }
 }
