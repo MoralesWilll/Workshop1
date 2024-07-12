@@ -18,8 +18,8 @@ public class Ejercicio4 {
         else if (totalPrice >= 1000) {
             discount = totalPrice*0.25;
         }
-        System.out.println("El descuento es: " + discount);
-            System.out.println("El precio final es: " + (totalPrice - discount));
+        System.out.println("The discount is: " + discount);
+            System.out.println("THe final price is: " + (totalPrice - discount));
     }
 
 }
